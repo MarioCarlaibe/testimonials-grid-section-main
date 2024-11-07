@@ -1,4 +1,4 @@
-@media(min-width: 1400px){
+@media(min-width: 1300px){
     body main{
         display: flex;
         flex-direction: column;
